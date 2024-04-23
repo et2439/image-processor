@@ -4,7 +4,7 @@ This project is a console apllication that allows applying some basic filters to
 
 ## Supported image format
 
-The input file must have BMP format 
+The input file must have 24-bit BMP format 
 ## Prerequisites
 
 - CMake installed
